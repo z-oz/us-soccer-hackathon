@@ -3,9 +3,13 @@
 Before we began this project, we carefully thought on why the United States Men’s National Soccer Team did not qualify for 
 the 2018 World Cup. We analyzed what makes a national soccer team successful in the World Cup and determined our 
 definition of success, any team who has at least qualified for the Quarter Final stage consecutively for the past four 
-tournaments. We analyzed World Cup datasets and found seven national teams that were deemed successful. We evaluated four 
+tournaments. We analyzed World Cup datasets and found seven national teams that were deemed successful. 
+#### Argentina, Brazil, England, France, Germany, Portugal, and Spain
+
+We evaluated four 
 common statistics from these seven national teams that led them to consistent success throughout the previous four World Cups. 
-These statistics were goal average per game, pass accuracy, shot accuracy, and offensive pass accuracy.
+These statistics were;
+#### Goal Average per game, Pass Accuracy, Shot Accuracy, and Offensive Pass Accuracy.
 
 Next, we obtained same statistics from the United States Men’s National Soccer Team to compare and determine the distinction 
 between successful and unsuccessful teams. Although, we found USA’s pass accuracy to be similar between the seven teams, the 
