@@ -1,4 +1,4 @@
-Success in the World Cup
+### Success in the World Cup
 
 Before we began this project, we carefully thought on why the United States Men’s National Soccer Team did not qualify for 
 the 2018 World Cup. We analyzed what makes a national soccer team successful in the World Cup and determined our 
